@@ -1,11 +1,11 @@
 # datapump use cases
 
-1. [export-data-onnly](#export-data-only)
-2. [import-data-only](#import-data-only)
+1. [export data onnly](#export-data-only)
+2. [import data only](#import-data-only)
 3. [metadata only](#metadata-only)
 4. [exclude tables](#exclude-tables)
 
-## export-data-only
+## export data only
 
 ```
 DECLARE
@@ -32,7 +32,7 @@ END;
 /
 ```
 
-## import-data-only
+## import data only
 
 ```
 DECLARE
