@@ -1,7 +1,7 @@
 # datapump use cases
 
-- [export-data-onnly] (#export-data-only)
-- [import-data-only] (#import-data-only)
+1. [export-data-onnly](#export-data-only)
+2. [import-data-only](#import-data-only)
 
 ## export-data-only
 
