@@ -2,8 +2,8 @@
 
 1. [export-data-onnly](#export-data-only)
 2. [import-data-only](#import-data-only)
-3. [metadata-only](#metadata-only)
-4. [exclude-tables](#exclude-tables)
+3. [metadata only](#metadata-only)
+4. [exclude tables](#exclude-tables)
 
 ## export-data-only
 
@@ -59,7 +59,7 @@ END;
 /
 ```
 
-## metadata-only
+## metadata only
 
 ```
 DECLARE
@@ -88,7 +88,7 @@ END;
 /
 ```
 
-## exclude-tables
+## exclude tables
 
 ```
 DIRECTORY=DATAPUMP
